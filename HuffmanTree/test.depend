@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:e:\c or cpp files\projects cpp\codeblocks\test\main.cpp
+	<iostream>
+
+1574696842 source:e:\c or cpp files\projects cpp\codeblocks\huffmantree\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
