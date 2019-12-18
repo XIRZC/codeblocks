@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1575701534 source:d:\git\codeblocks\graph\algraph.cpp
+	"ALGraph.h"
+
+1575623297 d:\git\codeblocks\graph\algraph.h
+	"base.h"
+
+1576076739 d:\git\codeblocks\graph\base.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+
+1576077707 source:d:\git\codeblocks\graph\main.cpp
+	"base.h"
+	"MGraph.h"
+	"ALGraph.h"
+
+1575705120 d:\git\codeblocks\graph\mgraph.h
+	"base.h"
+
+1576077326 source:d:\git\codeblocks\graph\mgraph.cpp
+	"MGraph.h"
+

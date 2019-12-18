@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1576589946 source:d:\git\codeblocks\doublelift\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1576418705 d:\git\codeblocks\doublelift\base.h
+	<stdio.h>
+	<stdlib.h>
+

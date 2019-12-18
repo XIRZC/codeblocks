@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576499665 source:d:\git\codeblocks\singlelift\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
