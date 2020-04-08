@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1586175474 source:d:\git\codeblocks\test\main.cpp
+	<iostream>
+	<cstring>
+	<climits>
+
+1586055528 source:d:\git\codeblocks\test\test.cpp
+	<iostream>
+	<cstring>
+
